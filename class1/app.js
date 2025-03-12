@@ -25,5 +25,4 @@ console.log(true);
 console.log(typeof("hassan"));
 console.log(typeof(17));
 console.log(typeof(true));
-
 alert("Thanks For Watching");
