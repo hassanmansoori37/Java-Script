@@ -18,3 +18,7 @@ var h1 =document.querySelector("#greeting");
 function userGreet(){
     h1.innerHTML = 'Hello ' + input.value
 }
+
+function hide(){
+    h1.innerHTML = ""
+}
